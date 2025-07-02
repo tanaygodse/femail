@@ -1,0 +1,10 @@
+src/gmail.rs
+prompt.md
+CLAUDE.md
+target/.rustc_info.json
+target/CACHEDIR.TAG
+.gitignore
+target/debug/.cargo-lock
+target/debug/femail
+**/target/*
+tasks/todo.md
